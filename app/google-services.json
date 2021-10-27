@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "861133161449",
+    "project_id": "sec2midtermpeter",
+    "storage_bucket": "sec2midtermpeter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861133161449:android:9bd591d7ef8975cfa68178",
+        "android_client_info": {
+          "package_name": "com.example.sec2_midterm_peter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861133161449-nsutqoaqd6kv1k4ie8n8ikpo1cclbnun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJNdtG40jy4HKA4854pJweUiDpiq23R8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861133161449-nsutqoaqd6kv1k4ie8n8ikpo1cclbnun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
